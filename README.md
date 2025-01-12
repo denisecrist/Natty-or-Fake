@@ -37,7 +37,7 @@ Utilizei o "ChatGPT" para estruturar o conteúdo e refinar minhas ideias. Para a
 ## 🚀 Resultados
 O e-book apresenta de clara e simples uma idéia sobre Compliance e sobre as ferramentas que podem ser utilizadas para mitigação de riscos.
 
-[[LINK PARA O E-BOOK](https://github.com/denisecrist/projects/blob/main/E-book.pdf)]
+[[LINK PARA O E-BOOK][https://github.com/denisecrist/Natty-or-Fake/blob/main/E-book%20-%20Compliance%20e%20IA.pdf))
 
 ## 💭 Reflexão
 Foi expetacular esta experiência e é incrível como a utilização da IA turbina nossa dinâmica na produção de conteúdo.
